@@ -1,5 +1,5 @@
 
-
+ 
 # Auto-Photoshop-StableDiffusion-Plugin
 [![discord badge]][discord link]
 
@@ -12,7 +12,7 @@ With Auto-Photoshop-StableDiffusion-Plugin, you can directly use the capabilitie
 - [Auto-Photoshop-StableDiffusion-Plugin](#auto-photoshop-stablediffusion-plugin)
 - [Table of Contents](#table-of-contents)
 - [Demo:](#demo)
-- [How To Install Video Tutorial](#how-to-install-video-tutorial)
+- [How to install Video Tutorial:](#how-to-install-video-tutorial)
 - [Instructional Tutorial (outpaint, inpaint, img2img and txt2img):](#instructional-tutorial-outpaint-inpaint-img2img-and-txt2img)
 - [How to install:](#how-to-install)
 	- [First time running the plugin (local Automatic1111):](#first-time-running-the-plugin-local-automatic1111)
@@ -28,7 +28,7 @@ With Auto-Photoshop-StableDiffusion-Plugin, you can directly use the capabilitie
 	- [prompt shortcut:](#prompt-shortcut)
 	- [Rule of thumbs:](#rule-of-thumbs)
 - [FAQ and Known Issues](#faq-and-known-issues)
-	- [What Photoshop version do I need to run the plugin?](#what-photoshop-version-do-i-need-to-run-the-plugin) 
+	- [What Photoshop version do I need to run the plugin?](#what-photoshop-version-do-i-need-to-run-the-plugin)
 	- [Path Doesn't Exist](#path-doesnt-exist)
 	- [Plugin Load Failed](#plugin-load-failed)
 		- [No application are connected to the service](#no-application-are-connected-to-the-service)
@@ -36,9 +36,9 @@ With Auto-Photoshop-StableDiffusion-Plugin, you can directly use the capabilitie
 	- [Exception in ASGI application / Expecting value: line 1 column 1](#exception-in-asgi-application--expecting-value-line-1-column-1)
 	- [No Generations and Plugin Server doesn't send messages. (Remote setup)](#no-generations-and-plugin-server-doesnt-send-messages-remote-setup)
 	- [Issues with img2img, inpaint or outpaint:](#issues-with-img2img-inpaint-or-outpaint)
-- [No GPU Options](#no-gpu-options)
+- [No GPU Options:](#no-gpu-options)
 	- [Stable Horde](#stable-horde)
-	- [Colab](#colab)
+	- [Colab:](#colab)
 	
 	
  		
